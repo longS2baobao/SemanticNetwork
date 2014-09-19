@@ -1,0 +1,6 @@
+frosty is a instance_of what ?
+what is frosty made_of ?
+snowman is made_of what ?
+what is the temperature of snow ?
+what form_of water ?
+what are the color in the knowledge base ?
